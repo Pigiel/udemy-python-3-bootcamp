@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/home -it pigiel/pyimage

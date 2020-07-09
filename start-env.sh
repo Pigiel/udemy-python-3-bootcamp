@@ -1,1 +1,1 @@
-docker run --rm -v /Users/Pigiel/Documents/GitHub/udemy-python-3-bootcamp:/git -it pigiel/pygit
+docker run --rm -v $(pwd):/git -it pigiel/pygit
