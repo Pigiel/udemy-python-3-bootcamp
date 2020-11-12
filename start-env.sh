@@ -1,1 +1,1 @@
-docker run --rm -v $(pwd):/git -it pigiel/pygit
+docker run --rm -v $(pwd):/git -it pigiel/pygit bash
